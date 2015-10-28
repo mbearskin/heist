@@ -1,5 +1,6 @@
 # heist
 Data Structures Assigmnet 6 (Fall 2013) 
+https://docs.google.com/document/d/1pVRM3bfvysVeYrKb5g-s8Ci79LgNRYnJKd69GfOeDEI/edit
 Prompt:
 HOMEWORK #6:
 Heist!
